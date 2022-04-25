@@ -6,4 +6,4 @@
 
 플레이 영상:
 
-https://user-images.githubusercontent.com/83524779/165006311-ffd7a646-4e33-4950-8cc6-5083f74d5dd4.mp4
+https://user-images.githubusercontent.com/83524779/165006398-1d388262-60e0-48a2-a9bc-1fa525745486.mp4
