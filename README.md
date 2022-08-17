@@ -2,7 +2,7 @@
 
 개발환경: Visual Studio 2019
 
-참고문헌: C프로그래밍 파워 업그레이드 (블럭 모양 및 게임판 설정 시)
+블럭 모양 및 게임판 설정에 대한 부분은 [C프로그래밍 파워 업그레이드](http://www.orentec.co.kr/teachlist/teach_sub1.php)를 참고하여 제작되었습니다.
 
 플레이 영상:
 
